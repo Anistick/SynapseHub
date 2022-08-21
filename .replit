@@ -1,4 +1,4 @@
-entrypoint = "main.lua"
+entrypoint = "warn.lua"
 
 [interpreter]
 command = [
